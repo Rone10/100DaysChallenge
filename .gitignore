@@ -1,0 +1,8 @@
+Pipfile
+*.pdb
+*.vscode
+/.idea
+*.exe
+*.ilk
+*.obj
+/.ipynb_checkpoints
